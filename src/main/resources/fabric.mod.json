@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "biomeapi",
+  "version": "${version}",
+  "name": "Biome Api",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.zonlykroks.biomeapi.BiomeApi"
+    ],
+    "pb_biome_api:material_rules": [
+      "de.zonlykroks.biomeapi.BiomeApi"
+    ]
+  },
+  "mixins": [
+    "biomeapi.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.4",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}

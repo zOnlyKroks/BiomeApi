@@ -1,0 +1,18 @@
+accessWidener	v2	named
+
+accessible field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint temperatureNoise J
+accessible field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint humidityNoise J
+accessible field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint continentalnessNoise J
+accessible field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint erosionNoise J
+accessible field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint depth J
+accessible field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint weirdnessNoise J
+
+mutable field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint temperatureNoise J
+mutable field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint humidityNoise J
+mutable field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint continentalnessNoise J
+mutable field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint erosionNoise J
+mutable field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint depth J
+mutable field  net/minecraft/world/biome/source/util/MultiNoiseUtil$NoiseValuePoint weirdnessNoise J
+
+mutable    field    net/minecraft/world/gen/chunk/NoiseChunkGenerator    noiseColumnSampler    Lnet/minecraft/world/biome/source/util/MultiNoiseUtil$MultiNoiseSampler;
+accessible    field    net/minecraft/world/gen/chunk/NoiseChunkGenerator    noiseColumnSampler    Lnet/minecraft/world/biome/source/util/MultiNoiseUtil$MultiNoiseSampler;
